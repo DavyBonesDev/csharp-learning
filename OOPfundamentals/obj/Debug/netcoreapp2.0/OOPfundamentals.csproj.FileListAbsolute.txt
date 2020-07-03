@@ -1,0 +1,10 @@
+D:\Documents\Lockdown\OOPfundamentals\bin\Debug\netcoreapp2.0\OOPfundamentals.deps.json
+D:\Documents\Lockdown\OOPfundamentals\bin\Debug\netcoreapp2.0\OOPfundamentals.runtimeconfig.json
+D:\Documents\Lockdown\OOPfundamentals\bin\Debug\netcoreapp2.0\OOPfundamentals.runtimeconfig.dev.json
+D:\Documents\Lockdown\OOPfundamentals\bin\Debug\netcoreapp2.0\OOPfundamentals.dll
+D:\Documents\Lockdown\OOPfundamentals\bin\Debug\netcoreapp2.0\OOPfundamentals.pdb
+D:\Documents\Lockdown\OOPfundamentals\obj\Debug\netcoreapp2.0\OOPfundamentals.csproj.CoreCompileInputs.cache
+D:\Documents\Lockdown\OOPfundamentals\obj\Debug\netcoreapp2.0\OOPfundamentals.AssemblyInfoInputs.cache
+D:\Documents\Lockdown\OOPfundamentals\obj\Debug\netcoreapp2.0\OOPfundamentals.AssemblyInfo.cs
+D:\Documents\Lockdown\OOPfundamentals\obj\Debug\netcoreapp2.0\OOPfundamentals.dll
+D:\Documents\Lockdown\OOPfundamentals\obj\Debug\netcoreapp2.0\OOPfundamentals.pdb
